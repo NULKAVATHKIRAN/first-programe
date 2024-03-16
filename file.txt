@@ -5,3 +5,16 @@ GIT HUB SYNTAX
              syntax:git add <files>
     git commit :
              syntax:git commit -m "commit message
+   git clone :
+             syntax :git clone <repository ur-1>
+   git push :
+             syntax :git push <remote> <branch>
+    git pull :
+             syntax :git pull <remote> <branch>
+    git branch :
+              syntax :git branch 
+    git check out :
+              syntax :git checkout <branch>
+              example :switch the furture branch.
+              -git checkout the furture branch 
+
