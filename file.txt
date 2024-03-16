@@ -1,1 +1,7 @@
-hellos 
+GIT HUB SYNTAX
+    git init :
+             syntax:git init
+    git add :
+             syntax:git add <files>
+    git commit :
+             syntax:git commit -m "commit message
